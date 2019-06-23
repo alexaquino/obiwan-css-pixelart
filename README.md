@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Star Wars { Obi-Wan Kenobi }
 
-![Captura_de_Tela_2018-09-01_às_02.36.14](/uploads/00956b0040878d59c37bb5b7efc51768/Captura_de_Tela_2018-09-01_às_02.36.14.png)
+![Captura_de_Tela_2018-09-01_às_02 36 14](https://user-images.githubusercontent.com/12216463/59978273-12e10e80-95b1-11e9-8522-ab75903a516b.png)
 
 ### Directory Structure
 
